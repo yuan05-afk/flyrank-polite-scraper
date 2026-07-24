@@ -44,6 +44,10 @@ Total unique quotes: 100 from 50 authors
 Saved 100 records -> quotes.json, quotes.csv
 ```
 
+Preview of the structured corpus (first rows of `data/quotes.json`):
+
+![Polite scraper corpus preview — 100 quotes from 50 authors](assets/corpus-preview.png)
+
 Sample record:
 
 ```json
